@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 27 18:43:36 CST 2023
+https\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1703673816102
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1703673707831
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-io\:commons-io\:pom\:2.6 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\zws\\.m2\\repository\\commons-io\\commons-io\\2.6\\commons-io-2.6.pom.11250243683894075816.tmp -> C\:\\Users\\zws\\.m2\\repository\\commons-io\\commons-io\\2.6\\commons-io-2.6.pom

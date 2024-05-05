@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 27 18:43:36 CST 2023
+https\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1703673816167
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1703673707968
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.doxia\:doxia\:pom\:1.11.1 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\zws\\.m2\\repository\\org\\apache\\maven\\doxia\\doxia\\1.11.1\\doxia-1.11.1.pom.12851750094531404225.tmp -> C\:\\Users\\zws\\.m2\\repository\\org\\apache\\maven\\doxia\\doxia\\1.11.1\\doxia-1.11.1.pom

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 27 18:43:37 CST 2023
+https\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1703673817274
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1703673709792
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.codehaus.plexus\:plexus\:pom\:8 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\zws\\.m2\\repository\\org\\codehaus\\plexus\\plexus\\8\\plexus-8.pom.13839095769151933926.tmp -> C\:\\Users\\zws\\.m2\\repository\\org\\codehaus\\plexus\\plexus\\8\\plexus-8.pom

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 27 18:43:48 CST 2023
+https\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1703673828781
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1703673722957
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.vladsch.flexmark\:flexmark-ext-aside\:pom\:0.42.14 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\zws\\.m2\\repository\\com\\vladsch\\flexmark\\flexmark-ext-aside\\0.42.14\\flexmark-ext-aside-0.42.14.pom.17501680852196422248.tmp -> C\:\\Users\\zws\\.m2\\repository\\com\\vladsch\\flexmark\\flexmark-ext-aside\\0.42.14\\flexmark-ext-aside-0.42.14.pom

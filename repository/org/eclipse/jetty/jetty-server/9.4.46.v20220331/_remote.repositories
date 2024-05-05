@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 27 18:57:23 CST 2023
+jetty-server-9.4.46.v20220331.jar>central=
+jetty-server-9.4.46.v20220331.pom>central=
+jetty-server-9.4.46.v20220331.pom>nexus-aliyun=
+jetty-server-9.4.46.v20220331.jar>nexus-aliyun=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 27 18:43:37 CST 2023
+xz-1.9.pom>nexus-aliyun=
+xz-1.9.jar>nexus-aliyun=
+xz-1.9.jar>central=
+xz-1.9.pom>central=
